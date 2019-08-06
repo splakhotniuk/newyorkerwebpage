@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.page {
+  margin-top: 50px;
+}
+
+.brandlist {
+  height: 80px;
+  background-color: black;
+}
