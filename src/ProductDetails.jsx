@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+
 
 export const ProductDetails = () => {
     return (
@@ -11,7 +11,16 @@ export const ProductDetails = () => {
                 <div className="col">
                     200uhy
                 </div>
+                <div className="col">
+                <span aria-hidden="true">&times;</span>
+                
+                </div>
+                <div className="col">
+                    <h1><span class="carousel-control-next-icon"></span></h1>
+                </div>
             </div>
+            
+            
         </div>
     );
   };

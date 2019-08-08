@@ -11,7 +11,7 @@ export const Footer = () => {
                 </div>
                 <div className="col-md-9 col-lg-8 text-left ">
                    <h1>Be parts of us!</h1>
-                   <span>Subscribe to our exclusive newsletter and benefit from individual offers, the latest fashion news and styling tips. Join the NEW YORKER crew now!</span>
+                   <p>Subscribe to our exclusive newsletter and benefit from individual offers, the latest fashion news and styling tips. Join the NEW YORKER crew now!</p>
                     <div className="row">
                         <div className="col-10">
                             <div className="row">
